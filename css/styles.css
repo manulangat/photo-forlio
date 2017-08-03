@@ -1,0 +1,16 @@
+.column {
+  width: 650px;
+  float: left;
+}
+html {
+  background-color: grey;
+}
+
+.important {
+  background-color: yellow;
+}
+
+.intro {
+  font-size: 30px;
+  text-align: center;
+}
